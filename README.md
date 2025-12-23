@@ -115,19 +115,4 @@
 
 ---
 
-##Структура репозитория
-
-```
-├── AI_HW1_Regression_with_inference_pro.ipynb  # Основной ноутбук
-├── app.py                                       # Streamlit приложение
-├── model_pipeline.pkl                           # Обученная модель (scaler + Ridge)
-├── ohe_encoder.pkl                              # OneHotEncoder
-├── feature_info.pkl                             # Информация о признаках
-├── train_data_for_eda.csv                       # Данные для EDA
-├── requirements.txt                             # Зависимости
-└── REPORT.md                                    # Этот файл
-```
-
----
-
 
